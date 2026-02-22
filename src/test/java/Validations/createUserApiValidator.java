@@ -109,7 +109,7 @@ public class createUserApiValidator {
 			Assert.assertEquals(rootnode.get("message").asText(), user.id);
 		}
 		
-		System.out.println("end of the test method");
+		System.out.println("Successfully complete all test method");
 		
 		
 	}
